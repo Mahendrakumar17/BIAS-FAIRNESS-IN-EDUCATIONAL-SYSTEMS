@@ -59,14 +59,14 @@ using fairness metrics and mitigation techniques.
 
 
 
-## 💻 Tech Stack
+##  Tech Stack
 - **Language:** Python
 - **Libraries:** Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib, Fairlearn, AIF360
 - **Environment:** Jupyter Notebook
 
 ---
 
-## 📊 Results Summary
+##  Results
 - Gender bias: Minimal.
 - Ethnicity & parental education bias: Significant in some metrics.
 - Bias mitigation improved fairness without major accuracy loss.
