@@ -1,6 +1,6 @@
 # Bias and Fairness in Educational System AI
 
-## 📌 Overview
+##  Overview
 This project analyzes bias in AI models used for educational predictions.
 Two datasets were used:
 - **Adult Census Income Dataset** – Predict income level.
@@ -11,7 +11,7 @@ using fairness metrics and mitigation techniques.
 
 
 
-## 🎯 Objectives
+##  Objectives
 - Identify biased trends across demographic groups.
 - Evaluate models using fairness metrics:
   - Demographic Parity Difference
@@ -22,13 +22,13 @@ using fairness metrics and mitigation techniques.
 
 
 
-## 📂 Datasets
+##  Datasets
 1. **Adult Census Income** – Demographic and occupational attributes.
 2. **Student Performance** – Student demographics, parental background, academic factors.
 
 ---
 
-## 🛠 Methodology
+##  Methodology
 
 ### 1. Data Preprocessing
 - Handled missing values:
